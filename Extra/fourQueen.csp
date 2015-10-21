@@ -1,0 +1,18 @@
+A 11 12 13 14 21 22 23 24 31 32 33 34 41 42 43 44
+B 11 12 13 14 21 22 23 24 31 32 33 34 41 42 43 44
+C 11 12 13 14 21 22 23 24 31 32 33 34 41 42 43 44
+D 11 12 13 14 21 22 23 24 31 32 33 34 41 42 43 44
+0
+NotEqualConstraint A B
+NotEqualConstraint A C
+NotEqualConstraint A D
+NotEqualConstraint B C
+NotEqualConstraint B D
+NotEqualConstraint C D
+NotAffectedConstraint A B
+NotAffectedConstraint A C
+NotAffectedConstraint A D
+NotAffectedConstraint B C
+NotAffectedConstraint B D
+NotAffectedConstraint C D
+0
